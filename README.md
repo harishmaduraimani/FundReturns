@@ -10,3 +10,5 @@ The NAV sequence encodes fund growth.Using past NAV trends,
 the ML model learns patterns.
 
 You can then simulate returns for any input amount.
+![Uploading image.png…]()
+
