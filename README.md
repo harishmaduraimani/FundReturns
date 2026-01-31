@@ -11,5 +11,5 @@ the ML model learns patterns.
 
 You can then simulate returns for any input amount.
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/bfb80b30-3917-4b3b-839e-25b777d16f8b" />
+<img width="212" height="212" alt="image" src="https://github.com/user-attachments/assets/bfb80b30-3917-4b3b-839e-25b777d16f8b" />
 
